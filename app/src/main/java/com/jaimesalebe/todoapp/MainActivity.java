@@ -7,7 +7,10 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
@@ -89,5 +92,16 @@ public class MainActivity extends AppCompatActivity implements OnDialogCloseList
     mList.clear();
     showData();
     adapter.notifyDataSetChanged();
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menuMain){
+        getMenuInflater().inflate(R.menu.menu_main,menuMain);
+        return true;
+    }
+
+    public void irmapa(MenuItem item) {
+        Intent intent = new Intent(this, MapsActivity.class);
+        startActivity(intent);
     }
 }

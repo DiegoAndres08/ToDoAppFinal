@@ -1,62 +1,33 @@
 {
   "project_info": {
-    "project_number": "426065951612",
-    "project_id": "todoapp-7218f",
-    "storage_bucket": "todoapp-7218f.appspot.com"
+    "project_number": "816540406596",
+    "project_id": "todo-c6839",
+    "storage_bucket": "todo-c6839.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:426065951612:android:e66261fb4aee876d0442f9",
-        "android_client_info": {
-          "package_name": "com.jaimesalebe.todo_list"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "426065951612-jpf26tcrvhgbiq4uab1bvge0sc23ets0.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDeLp96gXEb7pVyh_FcpxOXE2MBVlcDfMo"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "426065951612-jpf26tcrvhgbiq4uab1bvge0sc23ets0.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:426065951612:android:981efb2afa20411a0442f9",
+        "mobilesdk_app_id": "1:816540406596:android:8df380d4f672d2c59dfd11",
         "android_client_info": {
           "package_name": "com.jaimesalebe.todoapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "426065951612-jpf26tcrvhgbiq4uab1bvge0sc23ets0.apps.googleusercontent.com",
+          "client_id": "816540406596-m8bup582nfan5erc86aledr7qgmbp6et.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDeLp96gXEb7pVyh_FcpxOXE2MBVlcDfMo"
+          "current_key": "AIzaSyAKNLpuvcBD0z31lLyy50Jn-OCPZPV9dvw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "426065951612-jpf26tcrvhgbiq4uab1bvge0sc23ets0.apps.googleusercontent.com",
+              "client_id": "816540406596-m8bup582nfan5erc86aledr7qgmbp6et.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
