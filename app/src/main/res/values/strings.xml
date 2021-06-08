@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="new_task">Nueva Tarea</string>
+    <string name="date">31-05-2020</string>
+</resources>
